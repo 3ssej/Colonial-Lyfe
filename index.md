@@ -1,5 +1,5 @@
 ## Welcome to Colonial Lyfe
-![Image]http://i.imgur.com/O7nmvTJ.png
+![Image](http://i.imgur.com/O7nmvTJ.png)
 
 We are a historic-fiction minecraft roleplay server based in the late 1700s.
 
